@@ -52,9 +52,7 @@ To install the extension locally:
 If you'd like to contribute to the project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
 
-## Contact
 
-Created by [Agam Agarwal](https://github.com/Hustler004) - feel free to reach out!
 
 ---
 
